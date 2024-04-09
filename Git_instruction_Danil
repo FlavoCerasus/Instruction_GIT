@@ -59,3 +59,8 @@ git merge <branch name>
 ``` sh
 git branch -d <branch name>
 ```
+ ## Работа с GitHub
+ Для того, чтобы загрузить(скопировать) файл с платформы GitHub необходимо ввести команду: 
+``` sh
+git clone <url file>
+```
